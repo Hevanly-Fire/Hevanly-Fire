@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've working to create great Software since 8+ years.<br>Mostly Working in: Web Dev, Machine Learning, Android, Quant and Embedded Systems.
+I've been working to create great Software since 8+ years.<br>Mostly Working in: Web Dev, Machine Learning, Android, Quant and Embedded Systems.
 
 
 # 💻 Tech Stack:
